@@ -94,5 +94,5 @@
 
 ---
 
-<p align="center"><strong>✨ Sempre publicando projetos no GitHub para aprender, evoluir e compartilhar conhecimento com a comunidade! ✨</strong></p>
+<p align="center"><strong> Sempre publicando projetos no GitHub para aprender, evoluir e compartilhar conhecimento com a comunidade! </strong></p>
 
