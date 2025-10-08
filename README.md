@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou Yan Oliveira
 
-💻 **Aprendiz em Automação e Desenvolvimento**  
-📍 Curitiba, PR - Brasil  
-🚀 Apaixonado por tecnologia, automação de processos e desenvolvimento web.
+- 📍 Curitiba - Paraná, Brasil
+- 💼 Atualmente **Aprendiz na Neodent**
+- 🚀 Iniciante apaixonado por **Front-End** e automação
+- 🎯 Objetivo: Tornar-me um desenvolvedor front-end profissional
 
 ---
 
