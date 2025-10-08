@@ -46,15 +46,38 @@
 
 ---
 
-## 🎓 Roadmap
+## 🎓 Minha Jornada de Aprendizado
 
 <div align="center">
 
-| ✅ Dominado | 🔄 Estudando | 📌 Próximo |
-|:-----------:|:------------:|:----------:|
-| HTML & CSS | TypeScript | React.js |
-| JavaScript | TailwindCSS | APIs REST |
-| Python | Git Avançado | Node.js |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge&logo=checkmarx&logoColor=white"/><br><br>
+<b>✅ Fundamentos</b><br><br>
+🎨 HTML & CSS<br>
+⚡ JavaScript<br>
+🐍 Python<br>
+📱 Design Responsivo<br>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow?style=for-the-badge&logo=gatsby&logoColor=white"/><br><br>
+<b>🔄 Praticando</b><br><br>
+📘 TypeScript<br>
+🎨 TailwindCSS<br>
+🔧 Git Avançado<br>
+🎯 UI/UX Design<br>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/STATUS-PRÓXIMO-blue?style=for-the-badge&logo=target&logoColor=white"/><br><br>
+<b>📌 Objetivos</b><br><br>
+⚛️ React.js<br>
+🌐 APIs REST<br>
+🚀 Node.js<br>
+📦 Redux<br>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -62,42 +85,85 @@
 
 ## 🚀 Projetos Principais
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow?style=for-the-badge"/>
 
 ### 🎉 [Chá de Bebê](https://github.com/Yan-Sykes/Cha-de-bebe)
+
+<img src="https://img.icons8.com/fluency/96/000000/web.png" width="80"/>
+
 Site moderno para eventos com sistema de presentes, área privada e integração PIX.
 
-**Stack:** TypeScript • TailwindCSS • Vite • Supabase
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge"/>
 
 ### 🤖 [Robo_Data](https://github.com/Yan-Sykes/Robo_Data)
+
+<img src="https://img.icons8.com/fluency/96/000000/bot.png" width="80"/>
+
 Automação SAP para atualização de datas com interface gráfica e sistema de logs.
 
-**Stack:** Python • PyQt6 • SAP GUI Scripting
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge"/>
 
 ### 🤖 [Robo_Reqs](https://github.com/Yan-Sykes/Robo_Reqs)
+
+<img src="https://img.icons8.com/fluency/96/000000/robot-2.png" width="80"/>
+
 Automatização de requisições SAP ME52N com integração Excel e processamento em lote.
 
-**Stack:** Python • PyQt6 • Excel • SAP
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/STATUS-EM_BREVE-blue?style=for-the-badge"/>
 
 ### 🌟 Em Breve
+
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
+
 Novos projetos interessantes estão a caminho!
+
+<br><br>
+
+💡 **Fique ligado para mais!**
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -117,19 +183,7 @@ Novos projetos interessantes estão a caminho!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-oliveira-724269236/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yan_oliveira2003@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yan_oliveira2003@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yan-Sykes)
 
 **⭐ Deixe uma estrela nos projetos que você gostar!**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-**Sempre aprendendo, evoluindo e compartilhando conhecimento! 🚀**
-
-</div>
