@@ -14,12 +14,6 @@
 
 ## 🎯 Sobre Mim
 
-<div align="center">
-<img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
-
-<br>
-
 📍 **Curitiba, PR - Brasil**  
 💼 **Aprendiz na Neodent**  
 🎓 **Estudando:** React.js e TypeScript  
