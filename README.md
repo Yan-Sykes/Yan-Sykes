@@ -14,7 +14,11 @@
 
 ## 🎯 Sobre Mim
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+<img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+<br>
 
 📍 **Curitiba, PR - Brasil**  
 💼 **Aprendiz na Neodent**  
