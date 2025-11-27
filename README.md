@@ -91,20 +91,20 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge"/>
 
-### 🎉 [Chá de Bebê](https://github.com/Yan-Sykes/Cha-de-bebe)
+### 💜 [Para Fernanda](https://github.com/Yan-Sykes/Para-Fernanda)
 
 <img src="https://img.icons8.com/fluency/96/000000/web.png" width="80"/>
 
-Site moderno para eventos com sistema de presentes, área privada e integração PIX.
+Site romântico e interativo com timeline, galeria de memórias, cartas de amor e animações 3D.
 
 <br>
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" align="center">
@@ -187,3 +187,5 @@ Novos projetos interessantes estão a caminho!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yan-Sykes)
 
 **⭐ Deixe uma estrela nos projetos que você gostar!**
+
+</div>
