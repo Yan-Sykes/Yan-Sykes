@@ -61,18 +61,18 @@
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow?style=for-the-badge&logo=gatsby&logoColor=white"/><br><br>
 <b>🔄 Praticando</b><br><br>
+⚛️ React.js<br>
 📘 TypeScript<br>
 🎨 TailwindCSS<br>
 🔧 Git Avançado<br>
-🎯 UI/UX Design<br>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/STATUS-PRÓXIMO-blue?style=for-the-badge&logo=target&logoColor=white"/><br><br>
 <b>📌 Objetivos</b><br><br>
-⚛️ React.js<br>
 🌐 APIs REST<br>
 🚀 Node.js<br>
 📦 Redux<br>
+🎯 UI/UX Design<br>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@
 
 ---
 
-## 🚀 Projetos Principais
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -107,6 +107,26 @@ Site romântico e interativo com timeline, galeria de memórias, cartas de amor 
 </td>
 <td width="50%" align="center">
 
+<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow?style=for-the-badge"/>
+
+### 💰 [FinanceControl](https://github.com/Yan-Sykes/FinanceControl)
+
+<img src="https://img.icons8.com/fluency/96/000000/money.png" width="80"/>
+
+Sistema de controle financeiro pessoal desenvolvido com React e TypeScript.
+
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
 <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge"/>
 
 ### 🤖 [Robo_Data](https://github.com/Yan-Sykes/Robo_Data)
@@ -123,8 +143,6 @@ Automação SAP para atualização de datas com interface gráfica e sistema de 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 
 <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge"/>
@@ -141,21 +159,6 @@ Automatização de requisições SAP ME52N com integração Excel e processament
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/STATUS-EM_BREVE-blue?style=for-the-badge"/>
-
-### 🌟 Em Breve
-
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
-
-Novos projetos interessantes estão a caminho!
-
-<br><br>
-
-💡 **Fique ligado para mais!**
 
 </td>
 </tr>
