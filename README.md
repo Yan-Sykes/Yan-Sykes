@@ -168,17 +168,6 @@ Automatização de requisições SAP ME52N com integração Excel e processament
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yan-Sykes&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true&bg_color=0d1117&locale=pt-br"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Sykes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br"/>
-
-</div>
-
----
-
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
