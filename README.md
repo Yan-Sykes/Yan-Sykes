@@ -15,12 +15,11 @@
 ## 🎯 Sobre Mim
 
 📍 **Curitiba, PR - Brasil**  
-💼 **Aprendiz na Neodent**  
+💼 **Analista na Neodent**  
 🎓 **Estudando:** React.js e TypeScript  
 🔧 **Experiência em:** Automação Python e SAP
 
-💡 Apaixonado por tecnologia e sempre buscando aprender mais  
-🎯 Objetivo: Conquistar minha primeira vaga como Front-End  
+💡 Apaixonado por tecnologia e sempre buscando aprender mais    
 ⚡ Transformando estudos em projetos práticos
 
 ---
