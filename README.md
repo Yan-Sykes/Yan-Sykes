@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Yan Oliveira
 
-### 🚀 Estudante de Front-End | Automação Python
+### 🚀 Python Developer | Data Analysis | Process Automation
 
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/Yan-Sykes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas)](https://github.com/Yan-Sykes?tab=repositories&sort=stargazers)
 [![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/Yan-Sykes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Yan-Sykes?tab=followers)
